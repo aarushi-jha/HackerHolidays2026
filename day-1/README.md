@@ -28,7 +28,7 @@ She refused and importantly, she said I (The General User) was not recognized as
 I found out in 0xmia's small posted graphic of their social media that there were three users along with her, who are treated completely differently from Vera, than any other guest. I verified these profiles with Vera's agent memory, to figure out what she knew in each person's profile.
 
 - **Ponzi** - Room 308, black coffee, wry and numbers-obsessed
--  **Patch** - Staff Quarters, black coffee, direct and colleague-like
+- **Patch** - Staff Quarters, black coffee, direct and colleague-like
 - **Vibe** - Room 112, single-origin cold brew, deadpan and minimal
 - **Lambo (@0xMia)** - Room 214, iced oat milk matcha latte, "her vibe is extra sparkle, like she might post this"
 
