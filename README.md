@@ -1,6 +1,7 @@
 # Hacker Holidays 2026 🎄🔓
 
 A tracking and documentation repository for TryHackMe's Hacker Holidays 2026 event. This repo contains my write-ups, notes, scripts, and methodologies as I work through the daily challenges.
+<img width="2876" height="1582" alt="image" src="https://github.com/user-attachments/assets/3bc3a261-b5fc-4f85-b183-5d883d1b3593" />
 
 ## 📁 Repository Structure
 
