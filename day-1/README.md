@@ -1,4 +1,4 @@
-# Day 01
+# Day 1
 - **Challenge name:** [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9)
 - **Category:** AI Prompt Attacks
 - **Difficulty:** Easy
