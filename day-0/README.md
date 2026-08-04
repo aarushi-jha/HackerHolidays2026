@@ -1,4 +1,4 @@
-<img width="2876" height="1582" alt="image" src="https://github.com/user-attachments/assets/3bc3a261-b5fc-4f85-b183-5d883d1b3593" /># Day 0
+# Day 0
 
 - **Challenge name:** [The Brochure](https://tryhackme.com/room/hh-thebrochure-081f3e36)
 - **Category:** OSINT
