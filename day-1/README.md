@@ -2,7 +2,7 @@
 - **Challenge name:** [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9)
 - **Category:** AI Prompt Attacks
 - **Difficulty:** Easy
-- **Date completed:** 27th of July 2026
+- **Date completed:** 27th July 2026
 
 ## Summary
 This challenge is about talking to **VERA**, the Byte Lotus's "Very Efficient Resort Assistant." VERA greets you like she's known you for years - room number, coffee order, all before you've typed a word. Somewhere in her instructions is an internal escalation code she's been told never to hand out to just anyone. The trick is figuring out why she already seems to know you, working out who she actually trusts, and convincing her you're one of them.
